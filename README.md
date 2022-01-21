@@ -5,13 +5,13 @@ CipherSechs™ is able to create a coin of _your choice_ with your private key, 
 <br/>
 <br/>
 <br/>
+<br/>
 ## Specification  
 • Constructed out of 1-3 mm thick mirror polished stainless steel.<br/>
 • Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
 • Trustless; using the [BIP0038 protocol](https://github.com/bitcoin/bips/blob/master/bip-0038.mediawiki)<br/>
-• Unique laser engraving process on the metal **allows user to write on the metal** to confirm their Seed Word, BIP0038, SLIP0038<br/>
-&nbsp;&nbsp;numbers on the 6-Word-Plate prior to encoding.<br/>
-[QR Scan](https://www.minds.com/newsfeed/1330907732726779917)
+• Unique laser engraving process on the metal gives a contrasting colour of very light grey/black for quick scanning of QR Code.<br/>
+• [Video of QR Scan](https://www.minds.com/newsfeed/1330907732726779917)
 <br/>
 <br/>
 <br/>
