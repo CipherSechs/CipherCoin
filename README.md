@@ -1,11 +1,11 @@
 # CipherCoin™
 Bespoke 35-40mm PPPK coins.  Monetary, tangible value.<br/>
-These coins carry the insignia of their respective cryptocurrency on the front, QR Encoded BIP0039 PPPK(Password Protected Private Key) on the back. The Bitcoin Improvement Protocol 0038 allows funds to be unlocked only when the user knows **both** the private key(QR Code) and the password attached to that private key.<br/>
-CipherSechs™ is able to create a coin of _your choice_ with your private key, safe in the knowledge that only _you_ have all the information to unlock the coin.
 <br/>
+These coins carry the insignia of their respective cryptocurrency on the front, QR Encoded BIP0038 PPPK(Password Protected Private Key) on the back. CipherSechs™ is able to create a coin of _your choice_ with your BIP0038 private key, safe in the knowledge that only _you_ have all the information to unlock the coin.<br/>
 <br/>
+The Bitcoin Improvement Protocol 0038 allows funds to be unlocked only when the user knows **both** the private key(QR Code) and the password attached to that private key.<br/>
 <br/>
-<br/>
+
 ## Specification  
 • Constructed out of 1-3 mm thick mirror polished stainless steel.<br/>
 • Stainless steel has a melting point of 2550 deg f(1400 deg C).<br/>
